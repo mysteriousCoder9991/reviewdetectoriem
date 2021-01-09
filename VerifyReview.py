@@ -22,7 +22,7 @@ Positive_Word_Dict = defaultdict()
 Sentence_Sentiment = {}
 Evaluation_Dict = OrderedDict()
 
-
+nltk.download('punkt')
 # In[3]:
 
 
